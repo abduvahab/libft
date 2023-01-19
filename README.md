@@ -1,5 +1,5 @@
-# libft(125 / 125)(2022)
-functions in c satandard library 
+# libft(125 / 125)(2022)\n
+functions in c satandard library \n
 this is my first project in 42 . I  finished it with bonus.
 you can find here those functions :
 • isalpha
