@@ -28,3 +28,10 @@ you can find here those functions :
 • atoi
 • calloc
 • strdup
+
+# How to use it ?
+You need to compile the library using:
+
+ 	 make 
+	 
+A static library is created as libft.a.
